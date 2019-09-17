@@ -35,6 +35,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "latest"
+    "jQuery": "3.4.1"
   }
 }
