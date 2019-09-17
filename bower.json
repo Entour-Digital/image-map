@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/clarketm/image-map"
+    "url": "https://github.com/Entour-Digital/image-map"
   },
   "bugs": {
-    "url": "https://github.com/clarketm/image-mapissues"
+    "url": "https://github.com/Entour-Digital/image-mapissues"
   },
   "license": "Apache-2.0",
   "homepage": "https://www.travismclarke.com",
