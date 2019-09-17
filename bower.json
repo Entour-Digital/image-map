@@ -7,7 +7,7 @@
     "url": "https://www.travismclarke.com/"
   },
   "description": "Response, dynamic image maps",
-  "main": "image-map.min.js",
+  "main": "dist/image-map.min.js",
   "keywords": [
     "image",
     "map",
