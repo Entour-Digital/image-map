@@ -33,8 +33,5 @@
     "node_modules",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "jQuery": "^2.2.4"
-  }
+  ]
 }
