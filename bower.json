@@ -35,6 +35,6 @@
     "tests"
   ],
   "dependencies": {
-    "jQuery": "latest"
+    "jquery": "latest"
   }
 }
